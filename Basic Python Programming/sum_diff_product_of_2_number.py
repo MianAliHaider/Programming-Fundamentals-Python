@@ -1,0 +1,5 @@
+x=int(input('Enter first number: '))
+y=int(input('Enter second number: '))
+print(f'Sum of two {x} and {y}: ' ,x+y)
+print(f'Difference of {x} and {y}: ',x-y)
+print(f'Product of {x} and {y}: ',x*y)

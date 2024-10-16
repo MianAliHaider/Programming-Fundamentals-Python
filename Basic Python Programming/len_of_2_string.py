@@ -1,0 +1,5 @@
+first=str(input('Enter any string: '))
+second=str(input('Enter the another string: '))
+print('Length of string 1 = ',len(first))
+print('Length of string 2 = ',len(second))
+print('Sum of Both lengths = ',len(first)+len(second))
